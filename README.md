@@ -29,9 +29,10 @@ git clone https://github.com/rhys-jones-06/EasyRunBackend.git
 cd EasyRunBackend
 ```
 
-2. Install dependencies (when available):
+2. Install dependencies:
 ```bash
-pip install -r requirements.txt
+# Dependencies to be added as the project develops
+# pip install -r requirements.txt
 ```
 
 3. Run the application:
@@ -88,7 +89,7 @@ Contributions are welcome! Whether it's bug fixes, feature additions, or documen
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 📬 Contact
 
