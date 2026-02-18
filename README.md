@@ -1,7 +1,7 @@
 # 🏃 Easy Run App Backend
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](#-license)
 [![Status](https://img.shields.io/badge/status-in%20development-orange.svg)]()
 
 A sophisticated Python REST API that generates optimal running routes based on distance, terrain preferences, and elevation difficulty. Built for runners who want intelligent route planning without the hassle.
@@ -89,7 +89,7 @@ Contributions are welcome! Whether it's bug fixes, feature additions, or documen
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project will be licensed under the MIT License - license file to be added.
 
 ## 📬 Contact
 
